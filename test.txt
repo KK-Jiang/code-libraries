@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 solve a conflict.
-=======
-solve a conflict.
->>>>>>> dev
