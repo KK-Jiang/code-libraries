@@ -1,2 +1,2 @@
 solve a conflict.
-a and b
+a AND b
