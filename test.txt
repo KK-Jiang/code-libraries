@@ -1,1 +1,2 @@
 solve a conflict.
+a & b
