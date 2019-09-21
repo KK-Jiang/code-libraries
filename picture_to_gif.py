@@ -7,7 +7,7 @@ import os
 
 def create_gif(source, name, duration):
     """
-     生成gif的函数，原始图片仅支持png
+     生成gif的函数
      source: 为png图片列表（排好序）
      name ：生成的文件名称
      duration: 每张图片之间的时间间隔
