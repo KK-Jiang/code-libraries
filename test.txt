@@ -1,3 +1,0 @@
-solve a conflict.
-a AND b
-rm
